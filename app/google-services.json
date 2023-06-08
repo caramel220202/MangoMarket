@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026208258998",
+    "firebase_url": "https://tinder-dd4c1-default-rtdb.firebaseio.com",
+    "project_id": "tinder-dd4c1",
+    "storage_bucket": "tinder-dd4c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026208258998:android:eb53f44a0e53562f65bf17",
+        "android_client_info": {
+          "package_name": "com.example.fastcampusdeepen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026208258998-vml08bi5r7srsebg1ic6ktmtc9sr048k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83bIHzg9Lp6wfnUp8wCyZio4_P-6HuiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026208258998-vml08bi5r7srsebg1ic6ktmtc9sr048k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

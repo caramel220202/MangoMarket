@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:padding="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<TextView
+    android:id="@+id/title"
+    android:layout_marginStart="10dp"
+    android:layout_width="0dp"
+    android:text="nickname"
+    android:textColor="@color/black"
+    android:textSize="16dp"
+    android:textStyle="bold"
+    android:ellipsize="end"
+    android:gravity="center_vertical"
+    android:layout_height="match_parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toStartOf="@id/sellerId"/>
+    <TextView
+        android:id="@+id/sellerId"
+        android:layout_width="0dp"
+        android:text="sellerId"
+        app:layout_goneMarginStart="20dp"
+        android:gravity="center_vertical"
+        android:layout_height="match_parent"
+        android:textSize="16dp"
+        android:ellipsize="end"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toEndOf="@id/title"
+        app:layout_constraintEnd_toEndOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

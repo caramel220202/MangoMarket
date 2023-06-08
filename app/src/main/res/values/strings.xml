@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FastcampusDeepen</string>
+    <string name="facebook_app_id">5510111159088162</string>
+    <string name="fb_login_protocol_scheme">fb5510111159088162</string>
+    <string name="facebook_client_token">0644b099bab7c047f93e12420ff034e3</string>
+</resources>
