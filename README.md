@@ -1,4 +1,4 @@
-# SecondHandDealings
+# MangoMarket
 중고 거래 앱 
 ## 배우게 된 것
 - Firebase Auth 를 통해 로그인 및 회원가입 구현
